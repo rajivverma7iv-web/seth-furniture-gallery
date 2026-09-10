@@ -1,0 +1,6 @@
+{
+  "name": "Seth Furniture Gallery",
+  "description": "Seth Furniture Gallery - Established in 1990 in Mahendra Park, Jahangirpuri, Delhi. Premium home furniture, bespoke made-to-order beds, sofas, dining tables, wardrobes, and same-day delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
